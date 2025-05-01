@@ -46,7 +46,7 @@ Flask: El framework web que usaremos para crear nuestra pasarela API.
 Flask-RESTful: Una extensión para Flask que simplifica la creación de API REST.
 Creación de la puerta de enlace de API de Flask
 Ahora que tenemos nuestro entorno configurado, vamos a crear una puerta de enlace de API sencilla. Crea un nuevo archivo llamado y ábrelo en tu editor de texto favorito. 
-Comenzaremos importando las librerías necesarias e inicializando nuestra aplicación Flask:app.py
+Comenzaremos importando las librerías necesarias e inicializando nuestra aplicación Flask: app.py
 
 from flask import Flask, jsonify
 from flask_restful import Api, Resource
