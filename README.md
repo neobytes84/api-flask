@@ -29,8 +29,8 @@ Entre las ventajas de utilizar una puerta de enlace de API se incluyen:
  Asegúrese de tener Python 3.12 instalado en su sistema o superior. Una vez instalado puede crear un entorno virtual e instalar Flask.
  
 ## Creación de carpeta, entorno virtual e instalación de Flask 
-   - mkdir api_flask
-   - cd api_flask
+   - mkdir api-flask
+   - cd api-flask
    - python -m venv ven
    - .\ven\Scripts\activate  # Windows 11
    - source venv/bin/activate  # For Unix/Linux/Mac
