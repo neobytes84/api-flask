@@ -60,7 +60,9 @@ api = Api(app)
 ## Acceso a los servicios
 
 Puede acceder a los servicios navegando y utilizando un navegador web o una herramienta de prueba de API como Postman.
-http://127.0.0.1:5000/serviceA http://127.0.0.1:5000/serviceB http://127.0.0.1:5000/serviceC
+  - http://127.0.0.1:5000/serviceA 
+  - http://127.0.0.1:5000/serviceB 
+  - http://127.0.0.1:5000/serviceC
 
 ## Implementación de funcionalidades de API Gateway
 Ahora que tenemos una puerta de enlace de API básica configurada, podemos mejorar su funcionalidad. Implementemos funciones como el equilibrio de carga y la agregación de solicitudes. Para lograr el equilibrio de carga, podemos definir 
